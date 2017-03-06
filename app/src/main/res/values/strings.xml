@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Pract3SDM</string>
+    <string name="app_name">Who wants to be a millonaire?</string>
+    <string name="buttonPlay">PLAY</string>
+    <string name="buttonScores">SCORES</string>
+    <string name="buttonSettings">SETTINGS</string>
+    <string name="buttonCredits">CREDITS</string>
 </resources>
