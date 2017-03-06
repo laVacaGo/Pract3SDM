@@ -8,6 +8,7 @@
     <string name="settingsName">Name: </string>
     <string name="settingNameHint">Enter your name</string>
     <string name="settingsHelpTimes">How many times can you ask for help?</string>
+    <string name="btnAddFriend">Add Friend</string>
     <string name="credits1">WHO WANTS TO BE A MILONAIRE</string>
     <string name="credits2">Authors:</string>
     <string name="credits3">Rodrigo Irigoyen Gallego (rodirgal@inf.upv.es)</string>
