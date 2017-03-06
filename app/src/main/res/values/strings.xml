@@ -4,4 +4,13 @@
     <string name="buttonScores">SCORES</string>
     <string name="buttonSettings">SETTINGS</string>
     <string name="buttonCredits">CREDITS</string>
+    <string name="credits">Credits</string>
+    <string name="settingsName">Name: </string>
+    <string name="settingNameHint">Enter your name</string>
+    <string name="settingsHelpTimes">How many times can you ask for help?</string>
+    <string name="credits1">WHO WANTS TO BE A MILONAIRE</string>
+    <string name="credits2">Authors:</string>
+    <string name="credits3">Rodrigo Irigoyen Gallego (rodirgal@inf.upv.es)</string>
+    <string name="credits4">Jorge Sentamants Algomas (marica@inf.upv.es)</string>
+    <string name="credits5">SDM 2016-2017</string>
 </resources>
